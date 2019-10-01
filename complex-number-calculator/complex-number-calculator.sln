@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "complex-number-calculator", "complex-number-calculator\complex-number-calculator.csproj", "{D83989DE-B596-49BD-88A8-7A9656DFAEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D83989DE-B596-49BD-88A8-7A9656DFAEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83989DE-B596-49BD-88A8-7A9656DFAEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83989DE-B596-49BD-88A8-7A9656DFAEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83989DE-B596-49BD-88A8-7A9656DFAEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
